@@ -18,8 +18,8 @@ The display Wemos uses the received data (a number in the ange 0-9) to light up 
 
 The code also lights up a 10th LED as a signal for a water-pump motor to turn ON and OFF whenever the water level reaches the bottom and the top of the scale, espectively.  
 
-## Sensor Wemos - wiring diagram
 ![alt text](https://github.com/ajithvasudevan/water-level-indicator/raw/master/Sensor%20Wemos%20-%20wiring%20diagram.png "Sensor Wemos - Wiring Diagram")
 
-## Display Wemos - wiring diagram:
+
+
 ![alt text](https://github.com/ajithvasudevan/water-level-indicator/raw/master/Display%20Wemos%20-%20wiring%20diagram.png "Display Wemos - Wiring Diagram")
